@@ -1,0 +1,7 @@
+node_id,node_type,name,country,lat,lon,tier,news_count_1d,news_count_7d,neg_tone_frac_3d,weather_anomaly_7d,strike_flag_7d,avg_lead_time_days,inventory_days,single_sourced,past_delay_days,news_velocity,disruption_within_7d,days_to_disruption
+N1,supplier,Supplier_A,China,31.23,121.47,1.0,4,4,0.71,0.041,1,21,10,0,7,3.43,0,
+N2,supplier,Supplier_B,Taiwan,25.03,121.56,1.0,3,3,0.05,1.948,0,10,20,1,7,2.57,1,4.0
+N3,port,Port_X,China,30.9,121.73,,1,3,0.97,1.617,0,7,10,1,2,0.57,1,4.0
+N4,factory,Factory_Y,India,13.08,80.27,2.0,0,3,0.66,0.623,0,10,30,0,2,-0.43,0,
+N5,supplier,Supplier_C,Germany,52.52,13.4,2.0,4,10,0.3,0.331,0,7,30,0,7,2.57,0,
+N6,port,Port_Z,Germany,53.55,10.0,,0,6,0.86,1.247,0,21,20,0,7,-0.86,1,5.0
